@@ -38,9 +38,9 @@
 
 <details>
 
-![image]
+![image](https://github.com/Agooll007/Avetisov-Claster_and_Balance/blob/main/img/2025-09-19_17-34-40.png)
 
-![image]
+![image](https://github.com/Agooll007/Avetisov-Claster_and_Balance/blob/main/img/2025-09-19_17-34-55.png)
 
 </details>
 
@@ -50,11 +50,11 @@
 
 <details>
 
-Ссылка HAProxy 
+Ссылка HAProxy https://github.com/Agooll007/Avetisov-Claster_and_Balance/blob/main/haproxy.cfg
 
-![image]
+![image](https://github.com/Agooll007/Avetisov-Claster_and_Balance/blob/main/img/2025-09-19_17-37-04.png)
 
-![image]
+![image](https://github.com/Agooll007/Avetisov-Claster_and_Balance/blob/main/img/2025-09-19_17-37-23.png)
 
 </details>
 
@@ -63,11 +63,11 @@
 
 <details>
 
-![image]
+![image](https://github.com/Agooll007/Avetisov-Claster_and_Balance/blob/main/img/2025-09-19_17-34-40.png)
 
-![image]
+![image](https://github.com/Agooll007/Avetisov-Claster_and_Balance/blob/main/img/2025-09-19_17-34-55.png)
 
-![image]
+![image](https://github.com/Agooll007/Avetisov-Claster_and_Balance/blob/main/img/2025-09-19_18-39-12.png)
 
 </details>
 
@@ -77,8 +77,8 @@
 
 <details>
 
-Ссылка файл HAProxy 
+Ссылка файл HAProxy https://github.com/Agooll007/Avetisov-Claster_and_Balance/blob/main/haproxy_2.cfg
 
-![image]
+![image](https://github.com/Agooll007/Avetisov-Claster_and_Balance/blob/main/img/2025-09-19_18-40-50.png)
 
-![image]
+![image](https://github.com/Agooll007/Avetisov-Claster_and_Balance/blob/main/img/2025-09-19_18-41-52.png)
